@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 💻 Student from the University of Brasilia
 - 🚀 Currently sudy Node, React and React Native
 - 🌎 My dream is to travel to many places in the world (meet new cultures and different peoples)
-- 🎬 I like moovies
+- 🎬 I like movies
 - 🎮 I also like videogames
