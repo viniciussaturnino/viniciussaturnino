@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### I'm from Brazil 🇧🇷  
 
-- 🧠 I realy like to learn
+- 🧠 I really like to learn
 - 🎯 Focused on web development
 - 💻 Student from the University of Brasilia
 - 🚀 Currently sudy Node, React and React Native
