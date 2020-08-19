@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **viniciussaturnino/viniciussaturnino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Vinicius Saturnino :octocat:
+# Vinicius Saturnino 
+
+:octocat:
+
+### I'm from Brazil 🇧🇷  
+
+🧠 - I realy like to learn
+🎯 - Focused on web development
+💻 - Student from the University of Brasilia
+🚀 - Currently sudy Node, React and React Native
+🌎 - My dream is to travel to many places in the world (meet new cultures and different peoples)
+🎬 - I like moovies
+🎮 - I also like videogames
