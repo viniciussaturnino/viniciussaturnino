@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # Vinicius Saturnino 
 
-:octocat:
-
 ### I'm from Brazil 🇧🇷  
 
 - 🧠 I really like to learn
