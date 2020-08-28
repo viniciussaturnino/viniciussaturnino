@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 # Vinicius Saturnino 
 
+### How to reach me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussaturnino07/)](https://www.linkedin.com/in/viniciussaturnino07/)
+[![Gmail Badge](https://img.shields.io/badge/-viniciussaturnino78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciussaturnino78@gmail.com)](mailto:viniciussaturnino78@gmail.com)
+
 ### I'm from Brazil 🇧🇷  
 
 - 🧠 I really like to learn
