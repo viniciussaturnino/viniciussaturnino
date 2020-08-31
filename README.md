@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🧠 I really like to learn
 - 🎯 Focused on web development
 - 💻 Student from the University of Brasilia
-- 🚀 Currently sudying Node, React and React Native
+- 🚀 Currently sudying the stack NodeJS, React and React Native
 - 🌎 My dream is to travel to many places in the world (meet new cultures and different peoples)
 - 🎬 I like movies
 - 🎮 I also like videogames
