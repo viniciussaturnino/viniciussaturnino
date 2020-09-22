@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/viniciussaturnino/github-readme-stats">
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=light" />
-</a><br><br><br><br><br><br>
+</a><br><br><br><br><br><br><br>
 
 ### I'm from Brazil 🇧🇷  
 
