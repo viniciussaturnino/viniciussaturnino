@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-viniciussaturnino78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciussaturnino78@gmail.com)](mailto:viniciussaturnino78@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-viniciussaturnino-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/viniciussaturnino)](https://t.me/viniciussaturnino)
 
+<a href="https://github.com/viniciussaturnino/github-readme-statst">
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniciussaturnino&show_icons=true&theme=omni" />
+</a>
+
+<a href="https://github.com/viniciussaturnino/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=light" />
+</a><br><br><br><br><br>
+
 ### I'm from Brazil 🇧🇷  
 
 - 🧠 I really like to learn
