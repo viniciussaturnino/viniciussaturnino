@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 - 🌎 My dream is to travel to many places in the world (meet new cultures and different peoples)
 - 🎬 I like movies
 - 🎮 I also like videogames
+- ⚡ Harry Potter
