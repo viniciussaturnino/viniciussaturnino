@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 # Vinicius Saturnino 
 
+### Hi there 👋
+
 ### How to reach me? 🔎
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussaturnino07/)](https://www.linkedin.com/in/viniciussaturnino07/)
