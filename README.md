@@ -9,7 +9,7 @@ Hello, my name is Vinicius and i'm a Software Engineering Student from Universit
 [![Telegram Badge](https://img.shields.io/badge/-viniciussaturnino-6633cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/viniciussaturnino)](https://t.me/viniciussaturnino)
 
 <a href="https://github.com/viniciussaturnino/github-readme-statst">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniciussaturnino&show_icons=true&theme=dracula" />
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniciussaturnino&show_icons=true&theme=omni" />
 </a>
 
 <a href="https://github.com/viniciussaturnino/github-readme-stats">
