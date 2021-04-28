@@ -16,7 +16,7 @@ Hello, my name is Vinicius and i'm a Software Engineering Student from Universit
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=light" />
 </a><br><br><br><br><br><br><br>
 
-### I'm from Brazil 🇧🇷  
+### I'm from Brazil
 
 - 🧠 I really like to learn
 - 🎯 Focused on web development
