@@ -13,7 +13,7 @@ I'm a Software Engineering Student from University of Brasilia.
 </a>
 
 <a href="https://github.com/viniciussaturnino/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=light" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=omni" />
 </a><br><br><br><br><br><br><br>
 
 ### I'm from Brazil
