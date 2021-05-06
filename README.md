@@ -25,3 +25,6 @@ I'm a Software Engineering Student from University of Brasilia.
 - 🌎 My dream is to travel to many places in the world (meet new cultures and different peoples)
 - 🎬 I like movies
 - 🎮 I also like videogames
+- ⚡ I'm a big fan of Harry Potter
+
+<img src='https://data.whicdn.com/images/83238747/original.gif'/>
