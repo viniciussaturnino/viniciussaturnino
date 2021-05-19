@@ -27,6 +27,4 @@ I'm a Software Engineering Student from University of Brasilia.
 - 🎮 I also like videogames
 - ⚡ I'm a big fan of Harry Potter
 
-<br>
-
 <img src='https://data.whicdn.com/images/83238747/original.gif'/>
