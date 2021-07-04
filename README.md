@@ -21,7 +21,7 @@ I'm a Software Engineering Student from University of Brasilia.
 - 🧠 I really like to learn
 - 🎯 Focused on web development
 - 💻 Student from the University of Brasilia (UnB)
-- 🚀 Currently sudying back-end in NodeJS and mobile development in Flutter
+- 🚀 Currently focused in Back-end development
 - 🌎 My dream is to travel to many places in the world (meet new cultures and different peoples)
 - 🎬 I like movies
 - 🎮 I also like videogames
