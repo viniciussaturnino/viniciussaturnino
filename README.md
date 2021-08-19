@@ -23,9 +23,3 @@ I'm a Software Engineering Student from University of Brasilia.
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<br>
-
-<div align='center'>
-  <img src='https://data.whicdn.com/images/83238747/original.gif'/>
-</div>
