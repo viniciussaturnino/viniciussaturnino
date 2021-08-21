@@ -1,6 +1,6 @@
 # Vinicius Saturnino
 
-I'm a Software Engineering Student from University of Brasilia.
+Software Engineering Student from University of Brasilia.
 
 ### How to reach me? 🔎
 
