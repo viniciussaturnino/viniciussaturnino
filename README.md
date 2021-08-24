@@ -7,6 +7,9 @@ Software Engineering Student from University of Brasilia.
   <a href="https://www.linkedin.com/in/viniciussaturnino07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciussaturnino78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C4302B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/viniciussaturnino" target="_blank"><img src="https://img.shields.io/badge/-viniciussaturnino-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  
+##
+<br>
 
 <a href="https://github.com/viniciussaturnino/github-readme-statst">
   <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniciussaturnino&show_icons=true&theme=omni" />
@@ -21,6 +24,7 @@ Software Engineering Student from University of Brasilia.
 <img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciussaturnino&theme=omni" />
 
 <br><br><br><br><br><br><br><br>
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,6 +32,10 @@ Software Engineering Student from University of Brasilia.
   <img align="center" alt="Node" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Vini-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <br><br>
   <img align="center" alt="Vini-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
