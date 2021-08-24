@@ -20,7 +20,7 @@ Software Engineering Student from University of Brasilia.
 
 <img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciussaturnino&theme=omni" />
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
