@@ -9,7 +9,6 @@ Software Engineering Student from University of Brasilia.
   <a href="https://t.me/viniciussaturnino" target="_blank"><img src="https://img.shields.io/badge/-viniciussaturnino-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
 ##
-<br>
 
 <a href="https://github.com/viniciussaturnino/github-readme-statst">
   <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniciussaturnino&show_icons=true&theme=omni" />
