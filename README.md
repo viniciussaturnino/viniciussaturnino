@@ -18,7 +18,7 @@ Software Engineering Student from University of Brasilia.
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=omni" />
 </a>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciussaturnino&theme=omni" />
 
