@@ -2,7 +2,7 @@
 
 Software Engineering Student from University of Brasilia.
 
-### How to reach me? 🔎
+### How to reach me?
 
   <a href="https://www.linkedin.com/in/viniciussaturnino07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciussaturnino78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C4302B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
