@@ -8,7 +8,7 @@
 
 # Vinicius Saturnino
 
-Software Engineering Student from University of Brasilia.
+Currently Backend Software Developer at [Tembici](https://www.tembici.com.br/pt/).
 
   <a href="https://www.linkedin.com/in/viniciussaturnino07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciussaturnino78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C4302B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,17 +16,20 @@ Software Engineering Student from University of Brasilia.
   
 ##
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciussaturnino.viniciussaturnino&left_color=green&right_color=red)
+<img align="center"  src="./img/code.png" />
+
 <a href="https://github.com/viniciussaturnino/github-readme-statst">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniciussaturnino&show_icons=true&theme=omni" />
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniciussaturnino&show_icons=true&theme=dracula" />
 </a>
 
 <a href="https://github.com/viniciussaturnino/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=omni" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaturnino&hide=jupyter%20notebook,html&layout=compact&theme=dracula" />
 </a>
 
 <br><br><br><br><br><br><br>
 
-<img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciussaturnino&theme=omni" />
+<img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciussaturnino&theme=dracula" />
 
 <br><br><br><br><br><br><br><br>
 ##
