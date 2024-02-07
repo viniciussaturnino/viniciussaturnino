@@ -8,15 +8,12 @@
 
 # Vinicius Saturnino
 
-Currently Backend Software Developer at [Tembici](https://www.tembici.com.br/pt/).
-
   <a href="https://www.linkedin.com/in/viniciussaturnino07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciussaturnino78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C4302B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/viniciussaturnino" target="_blank"><img src="https://img.shields.io/badge/-viniciussaturnino-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
 ##
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciussaturnino.viniciussaturnino&left_color=green&right_color=red)
 <img align="center"  src="./img/code.png" />
 
 <a href="https://github.com/viniciussaturnino/github-readme-statst">
